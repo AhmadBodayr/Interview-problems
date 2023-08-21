@@ -1,4 +1,5 @@
 // Coding Ninjas.com problem
+using namespace std;
 #include <bits/stdc++.h>
 int maxDiff(vector<int> &a, int n) {
     vector<int> post(n);
